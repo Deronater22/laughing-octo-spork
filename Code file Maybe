@@ -3,7 +3,6 @@
 ##Act like this is code.
 
 var num NUMBER == 5;
-##NUMBER += NUMBER;
 NUMBER * 5;
 
 print NUMBER;
