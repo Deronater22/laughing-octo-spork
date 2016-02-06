@@ -10,6 +10,7 @@
     <sprite>sprites\sprite_asteroid</sprite>
     <sprite>sprites\sprite_missile</sprite>
     <sprite>sprites\sprite_crystal</sprite>
+    <sprite>sprites\sprite_wall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background_black_1024</background>
@@ -24,6 +25,7 @@
     <object>objects\object_player_missile</object>
     <object>objects\object_HUD</object>
     <object>objects\object_crystal</object>
+    <object>objects\object_wall</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_black_map</room>
